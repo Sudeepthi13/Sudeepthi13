@@ -12,7 +12,9 @@
 Projects:
 
 Predictive Analytics for Heart Disease Risk Assessment: Leveraging AWS for healthcare insights.
+
 Apple Leaf Disease Detection Using ML Models: Applying computer vision to agricultural issues.
+
 Topic Modeling on NYT Articles: Identifying key themes and trends in large text datasets.
 
 🌱 When I’m not coding, you’ll find me exploring new tech trends, experimenting with machine learning models, or solving optimization puzzles.
