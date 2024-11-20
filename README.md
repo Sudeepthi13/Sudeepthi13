@@ -3,13 +3,16 @@
 🎓 Master's Student in Computer Science | Passionate about designing and building scalable, reliable systems.
 💻 Software Developer | Specializing in Cloud Infrastructure, Terraform, and Predictive Analytics.
 🔍 Exploring the intersection of Cloud Computing and Machine Learning.
-🌐 Recent Projects:
 
-Vulnerability and Risk Assessment: Enhancing cybersecurity through risk modeling and analysis.
-Predictive Analytics for Heart Disease Risk: Leveraging AWS for data-driven healthcare insights.
-Topic Modeling on NYT Articles: Uncovering patterns in large datasets using NLP techniques.
+💡 Expertise in Cloud Computing: Hands-on experience with Terraform, AWS, and virtualization tools like VMware.
+🧠 Skilled in Machine Learning: Developing solutions for predictive analytics and NLP-driven insights.
+🔒 Cybersecurity Enthusiast: Current project on Vulnerability and Risk Assessment, focused on securing modern systems.
+⚙️ Problem Solver: Proven ability to optimize and scale systems to meet diverse requirements.
 
-☁️ Former intern at LTIMindtree in Cloud Computing.
-🚀 Open to collaboration on impactful software projects.
+Projects:
+
+Predictive Analytics for Heart Disease Risk Assessment: Leveraging AWS for healthcare insights.
+Apple Leaf Disease Detection Using ML Models: Applying computer vision to agricultural issues.
+Topic Modeling on NYT Articles: Identifying key themes and trends in large text datasets.
 
 🌱 When I’m not coding, you’ll find me exploring new tech trends, experimenting with machine learning models, or solving optimization puzzles.
