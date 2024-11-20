@@ -1,16 +1,15 @@
-## Hi there 👋
+👋 Hi there! I'm [Your Name]!
 
-<!--
-**Sudeepthi13/Sudeepthi13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Master's Student in Computer Science | Passionate about designing and building scalable, reliable systems.
+💻 Software Developer | Specializing in Cloud Infrastructure, Terraform, and Predictive Analytics.
+🔍 Exploring the intersection of Cloud Computing and Machine Learning.
+🌐 Recent Projects:
 
-Here are some ideas to get you started:
+Vulnerability and Risk Assessment: Enhancing cybersecurity through risk modeling and analysis.
+Predictive Analytics for Heart Disease Risk: Leveraging AWS for data-driven healthcare insights.
+Topic Modeling on NYT Articles: Uncovering patterns in large datasets using NLP techniques.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+☁️ Former intern at LTIMindtree in Cloud Computing.
+🚀 Open to collaboration on impactful software projects.
+
+🌱 When I’m not coding, you’ll find me exploring new tech trends, experimenting with machine learning models, or solving optimization puzzles.
