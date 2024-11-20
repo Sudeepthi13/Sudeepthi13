@@ -1,4 +1,4 @@
-👋 Hi there! I'm [Your Name]!
+👋 Hi there! I'm Sudeepthi Adluru!
 
 🎓 Master's Student in Computer Science | Passionate about designing and building scalable, reliable systems.
 💻 Software Developer | Specializing in Cloud Infrastructure, Terraform, and Predictive Analytics.
